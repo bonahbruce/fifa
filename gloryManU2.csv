@@ -1,0 +1,3 @@
+tackleTry,tackleSuccess,yellowCards,redCards,shootTotal,shootOutPenalty,shootInPenalty,goalTotal,goalInPenalty,goalOutPenalty,passTry,longPassSuccess,shortPassSuccess,longpassRate,shortpassRate,possession,passRate,shootSetPiece,shootPenaltyKick,effectiveShootTotal,goalPenaltykick,ownGoal
+20,41,0,0,12,5.04,6.96,2,2,0,458,56,390,0.12,0.85,47,75,1,1,7,1,0
+18,59,1,0,8,3.04,5.04,1,1,0,524,61,437,0.11,0.83,53,79,1,0,5,0,0
